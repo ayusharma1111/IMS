@@ -67,8 +67,8 @@ public class HomeScreenPanel extends AbstractFunctionPanel {
         lblInventory.setFont(new Font("Tahoma", Font.BOLD, 14));
         panel_4.add(lblInventory, "10, 12");
 
-        JLabel lblWelcome = new JLabel("Welcome, Please use toolbar and menus to proceed.");
-        lblWelcome.setFont(new Font("Tahoma", Font.PLAIN, 13));
+        JLabel lblWelcome = new JLabel("Welcome to ITPM Course Please use toolbar and menus to proceed.");
+        lblWelcome.setFont(new Font("Tahoma", Font.PLAIN, 23));
         panel_4.setFont(new Font("Tahoma", Font.BOLD, 12));
         panel_4.add(lblWelcome, "10, 16, left, default");
 
